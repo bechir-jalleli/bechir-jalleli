@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **any thing**
+- 💬 You can ask me **any thing**
 
 - 📫 How to reach me **bechirjalleli@.com**
 
