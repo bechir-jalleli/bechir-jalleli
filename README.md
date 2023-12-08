@@ -7,11 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/bechirjalleli1" target="blank"><img src="https://img.shields.io/twitter/follow/bechirjalleli1?logo=twitter&style=for-the-badge" alt="bechirjalleli1" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 👨‍🎓 I'm a  Software Engineering Student
 
-- 💬 You can ask me **any thing**
+- 🌱 I’m currently learning : -Data Structures and Algorithms on LeetCode
+                              -FLUTTER from docs.flutter.dev
+
+- 💬 Ask me about anything, I am happy to help
 
 - 📫 How to reach me **bechirjalleli@.com**
+
+- 📝 Resume.
+
+- 💪 This is where I write, code and solve problems:
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
