@@ -19,7 +19,7 @@
 I'm a passionate **Software Engineer** and **MERN Full Stack Developer** from Tunisia, specializing in building robust and scalable web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 - 🔭 Currently working on full-stack projects using **MongoDB, Express.js, React.js, and Node.js**
-- 🌱 Continuously learning and improving my skills in **Data Structures & Algorithms** and **Flutter**
+- 🌱 Continuously learning and improving my skills in **Data Structures & Algorithms** and 
 - 💡 Passionate about clean code, best practices, and modern development workflows
 - 🎯 Open to collaborating on innovative projects and open-source contributions
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, REST APIs, or anything tech-related**
